@@ -23,8 +23,9 @@ elementów macierzy.
 Testy
 
 1. Wykonanie mnożenia (w Pythonie i przez dll):
-2. [[1,0],[0,1]] ✖ [[2,3],[4,5]] = [[2,3],[4,5]]
-3. 
+ 
+3. [[1,0],[0,1]] ✖ [[2,3],[4,5]] = [[2,3],[4,5]]
+
 4. Wykonanie mnożenia (w Pythonie i przez dll):
 [[1,2,1],[4,-1,0]] ✖ [[0,1],[2,0],[-1,-1]] = [[-1,0],[-4,4]]
 
