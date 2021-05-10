@@ -37,3 +37,5 @@ Testy
 5. Uzyskanie porównania czasów dla mnożenia macierzy 1x1, 10x10 50x50 (odpowiednio 100000, 1000 i 50 powtórzeń, liczby całkowite).
 
 6. Uzyskanie porównania czasów dla mnożenia macierzy 200x200 (3 powtórzenia, liczby rzeczywiste).
+
+Link do repozytorium: https://github.com/Amadeo413/Projekt_JS.git
